@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: SSkkang's blog                          # the main title
+title: SSkkang's blog                        # the main title
 
 tagline: Daily information and news   # it will display as the sub-title
 
